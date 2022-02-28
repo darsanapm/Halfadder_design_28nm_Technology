@@ -25,3 +25,33 @@ Sum = A ⊕ B
 
 Carry = A.B 
 
+![Screenshot 2022-02-27 at 1 22 52 PM](https://user-images.githubusercontent.com/100550606/156030538-c72431b3-7edb-4e8d-aa06-4c98ccaa72e8.png)
+
+Fig 1: Circuit diagram of Half Adder using Logic Gates
+
+The circuit is designed using 2 logic gates : XOR and AND gate. Here, the same two inputs are given to the two logic gates. Thus, when a voltage is supplied, the two gates receive the same input at the same time, since they are connected. Using the CMOS logic, XOR gate is implemented, which generates the Sum bit. Carry bit is obtained using AND logic. 
+
+The truth table of half adder is shown in Fig 2. 
+
+![Screenshot 2022-02-27 at 1 22 42 PM](https://user-images.githubusercontent.com/100550606/156030972-30d0f440-aa6a-4429-ac22-bf436e8b3956.png)
+
+Fig 2: Truth Table of Half Adder
+
+## Reference Circuit Diagram
+Fig 3, represents the transistor level implementation of half adder. In CMOS logic, PMOS and NMOS transistors are used. For the complete half adder circuit 12 transistors are used. 
+
+![Screenshot 2022-02-27 at 1 23 07 PM](https://user-images.githubusercontent.com/100550606/156031238-c7b0e949-da86-47af-8b25-60266663d20b.png)
+
+Fig 3: Half Adder implementation using CMOS logic
+
+## Reference Waveform
+![Screenshot 2022-02-27 at 1 35 27 PM](https://user-images.githubusercontent.com/100550606/156031423-d5cd3cfd-6e3c-4119-8252-e443ab7d629a.png)
+
+Fig 4: Expected Waveform
+
+## Tools Used
+1. PDK (Process Design Kit): The schematics were drawn using the transistors, voltage sources from Synopsys PDK in 28nm technology. 
+2. Synopsys Custom Compiler: Synopsys Custom Compiler™ provides several features for design drawing, error checking and its analysis.
+3. PrimeSim Spice: For simulations and displaying waveform PrimeSim Spice tool was used. 
+
+## Simulations Performed in Synopsys Tool
