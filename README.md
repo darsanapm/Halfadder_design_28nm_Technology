@@ -8,7 +8,7 @@ Adders play a vital role in performing any mathematical operation, especially in
 * [Simulations Performed in Synopsys Tool:](#simulations-performed-in-synopsys-tool)
   * [Generation of Abar and Bbar  inputs using inverter](#generation-of-abar-and-bbar-inputs-using-inverter)
   * [Half Adder Schematics](#half-adder-schematics)
-  * [Voltage Sources for A, B, Vdd and VSS](#voltage-sources-for-a,-b,-vdd-and-vss)
+  * [Voltage Sources for A, B, VDD and VSS](#voltage-sources-for-a,-b,-vdd-and-vss)
   * [Parameters set for voltage source for input A](#parameters-set-for-voltage-source-for-input-a)
   * [Parameters set for voltage source for input B](#parameters-set-for-voltage-source-for-input-b)
   * [Parameters set for transient response](#parameters-set-for-transient-response)
@@ -63,7 +63,7 @@ Fig 4: Expected Waveform
 
 ![Screenshot 2022-02-28 at 9 19 45 AM](https://user-images.githubusercontent.com/100550606/156032441-17cb7286-20ea-42a1-b35f-1e3f80e7f3ce.png)
 
-## c. Voltage Sources for A, B, Vdd and VSS
+## c. Voltage Sources for A, B, VDD and VSS
 
 ![Screenshot 2022-02-27 at 3 16 51 PM](https://user-images.githubusercontent.com/100550606/156032544-79338fe6-475c-4af8-9e50-7c056bca3e5a.png)
 
