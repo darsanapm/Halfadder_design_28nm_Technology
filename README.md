@@ -86,8 +86,7 @@ Here, vpulse cell (from analog lib in PDK)) is used to generate voltages for A a
 ![Screenshot 2022-02-26 at 4 20 59 PM](https://user-images.githubusercontent.com/100550606/156033060-f8812376-bfdd-4bed-a708-d77d193cd06f.png)
 
 ## Netlist
-The netlist is given here : 
-(https://github.com/darsanapm/Halfadder_design_28nm_Technology/blob/master/inv.sp) 
+The netlist is given here : [netlist](https://github.com/darsanapm/Halfadder_design_28nm_Technology/blob/master/inv.sp) 
 
 ## Author
 Darsana P M
