@@ -93,9 +93,9 @@ Darsana P M
 
 ## Acknowledgements
 
-* Cloud Based Analog IC Design Hackathon
-* Synopsys India
-* VLSI System Design (VSD) Corp. Pvt. Ltd India
+* [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+* [Synopsys India](https://www.synopsys.com/)
+* [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 * Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 * Chinmay panda, IIT Hyderabad
 * Sameer Durgoji, NIT Karnataka
