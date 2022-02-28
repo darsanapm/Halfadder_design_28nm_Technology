@@ -102,4 +102,4 @@ Darsana P M
 
 ## References
 1. Preeti Kushwah, Saurabh Khandelwal and Shyam Akashe, Multi-Threshold Voltage CMOS Design for Low-Power Half Adder Circuit, International Journal of Nanoscience | Vol. 14, No. 05n06, 1550022 (2015).
-2. U. Ko, T. Balsara and W. Lee, "Low-power design techniques for high-performance CMOS adders", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 3, no. 2, pp. 327-333, 1995.
+2. U. Ko, T. Balsara and W. Lee, "Low-power design techniques for high-performance CMOS adders", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 3, no. 2, pp. 327-333, 1995. 
